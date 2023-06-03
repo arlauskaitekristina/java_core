@@ -4,38 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28fdd6d5-7974-4d55-bd29-81da816e4d35" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../homework_01" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_01" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/homework/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/homework/Program.class" beforeDir="false" />
-    </list>
+    <list default="true" id="ba166512-36f6-4ee5-98e8-07baead922b7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="workspaceImportEnabled" value="true" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2Qha8JzyLvBvkoNufd2AExMHdkd" />
+  <component name="ProjectId" id="2QhBNxrYGTB6RkBH5waUa5VeA76" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,7 +29,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/New/Desktop/VS_Code/java_core",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -53,11 +37,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="28fdd6d5-7974-4d55-bd29-81da816e4d35" name="Changes" comment="" />
-      <created>1685808118808</created>
+      <changelist id="ba166512-36f6-4ee5-98e8-07baead922b7" name="Changes" comment="" />
+      <created>1685795913294</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1685808118808</updated>
+      <updated>1685795913294</updated>
     </task>
     <servers />
   </component>
